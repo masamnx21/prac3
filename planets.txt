@@ -6,3 +6,4 @@ jupiter
 saturn
 neptune
 uranus
+PLUTO IS A PLANET
